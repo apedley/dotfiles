@@ -1,0 +1,34 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"BufferScroll",
+		"Capybara Snippets",
+		"CoffeeScript",
+		"GitGutter",
+		"GitHub Flavored Markdown Preview",
+		"Markdown Preview",
+		"Package Control",
+		"QuickFileMove",
+		"RSpec",
+		"RSpec (snippets and syntax)",
+		"Ruby on Rails snippets",
+		"ruby-slim.tmbundle",
+		"RubyTest",
+		"SideBarEnhancements",
+		"Simple Rails Navigator",
+		"SmartMarkdown",
+		"SublimeCodeIntel",
+		"Tag",
+		"Theme - Cobalt2",
+		"Theme - Farzher",
+		"Theme - Nexus",
+		"Theme - Night",
+		"Theme - Nil",
+		"Theme - Phoenix",
+		"Theme - Pseudo OSX",
+		"Theme - Refined",
+		"Theme - Refresh",
+		"Theme - Soda"
+	]
+}

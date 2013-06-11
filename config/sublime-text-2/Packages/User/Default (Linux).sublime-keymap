@@ -1,0 +1,30 @@
+[
+	{
+		"keys": ["ctrl+l"],
+		"command": "insert_snippet",
+		"args": {"contents": " => "}
+	},
+  { "keys": ["j", "j"], "command": "exit_insert_mode",
+    "context":
+    [
+        { "key": "setting.command_mode", "operand": false },
+        { "key": "setting.is_widget", "operand": false }
+    ]
+  },
+  { "keys": ["g", "t"], "command": "next_view_in_stack",
+      "context":
+      [
+          { "key": "setting.command_mode", "operand": true },
+          { "key": "setting.is_widget", "operand": false }
+      ]
+  },
+
+  { "keys": ["g", "T"], "command": "prev_view_in_stack",
+      "context":
+      [
+          { "key": "setting.command_mode", "operand": true },
+          { "key": "setting.is_widget", "operand": false }
+      ]
+  }
+]
+

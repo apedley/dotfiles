@@ -1,0 +1,9 @@
+colorscheme molokai
+set guifont=Droid\ Sans\ Mono\ 12
+map <C-T> :CtrlP<CR>
+"folding settings
+set foldmethod=syntax   "fold based on indent
+set foldnestmax=10      "deepest fold is 10 levels
+set nofoldenable        "dont fold by default
+
+:imap jj <Esc>

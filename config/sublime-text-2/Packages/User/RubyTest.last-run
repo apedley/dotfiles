@@ -1,0 +1,4 @@
+{
+	"last_test_run": "rspec spec/models/user_spec.rb -l12",
+	"last_test_working_dir": "/home/andrew/Projects/antinote"
+}

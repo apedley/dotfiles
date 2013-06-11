@@ -1,0 +1,4 @@
+{
+  "erb_verify_command": "erb -xT - {file_name} | ruby -c",
+  "ruby_verify_command": "ruby -c {file_name}"
+}
